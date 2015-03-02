@@ -15,6 +15,8 @@ Pulls changes from other branch in to our branch and then applies our changes on
 ### Merge one commit from another branch ###
 > `git cherry-pick <commit>`
 
+### [Two repositories](http://blog.caplin.com/2013/09/18/merging-two-git-repositories/) ###
+
 ## Undo ##
 ### Undo uncommitted changes ###
 Remove staged and working directory changes
