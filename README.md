@@ -4,6 +4,7 @@
 ### Merge all changes from another branch using rebase ###
 If branch is on remote you'll need to run
 > `git fetch <remote>`
+
 And modify `<branch>` below to be `<remote>/<branch>`
 
 Pulls changes from other branch in to our branch and then applies our changes on top of that.
