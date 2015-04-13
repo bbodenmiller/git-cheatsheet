@@ -49,5 +49,12 @@ Overwrites all changes on server with your changes. This should never be used if
 ### Show all remotes ###
 > `git remote -v`
 
+## Branches ##
+## Show branches ##
+> `git branch -a`
+
+Without PR branches
+> `git branch -a | grep -v 'pr/*'`
+
 ## Resources ##
 * [Another Git cheatsheet](https://github.com/jasonniebauer/git-cheatsheet)
