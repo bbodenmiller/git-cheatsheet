@@ -36,7 +36,7 @@ Where `1` should be replaced with the number of commits you want to undo.
 ### Undo commit & remove changes ###
 > `git reset --hard HEAD~1`
 
-Where `1` can be replaced with the number of commits you want to undo.
+Where `1` should be replaced with the number of commits you want to undo.
 
 ## Push code ##
 ### Push tags to remote server ###
