@@ -46,6 +46,11 @@ Where `1` should be replaced with the number of commits you want to undo.
 Overwrites all changes on server with your changes. This should never be used if others are writing to branch also.
 > `git push -u -f`
 
+### Push to non-default remote
+> `git push <remote> <branch>`
+
+Add `-f` for force push
+
 ### Show all remotes ###
 > `git remote -v`
 
